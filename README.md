@@ -1,23 +1,28 @@
 # Atividade
-Cada membro deve:
-<ul>
-  <li>Criar uma branch (seu nome ou qualquer outra coisa)</li>
-  <li>Adicionar um arquivo texto "seu_nome.txt"</li>
-  <li>Criar um pull request! Realizar o "Merge"</li>
-</ul>
 
-Lembrando, temos que:
-<ul>
-  <li>Clonar o repositório</li>
-  <li>Criar uma branch própria</li>
-  <li>Fazer as mudanças e "commitar"</li>
-  <li>Push para o Github</li>
-  <li>Criar um Pull Request</li>
-</ul>
+<h4> Tarefa 1 - Adionando arquivos </h4>
+Estas atividades devem ser feitas dos seus respectivos computadores<br>
 
-<h4> Tarefa! </h4>
-<ul>
-  <li>Você deve criar novamente uma branch local (em seu respectivo PC)</li>
-  <li>Adicionar um programa em C com seu nome e dar um push para o repositório remoto</li>
-  <li>Após isso, criar, via github, um pull request, da sua branch para a "master</li>
-</ul>
+<ol>
+  <li>Clonar o repositório - Local</li>
+  <li>Criar uma branch (seu nome/apelido)        - Local</li>
+  <li>Adicionar um programa em C com seu nome e dar um push para a sua branch - Local</li>
+  <li>Push para o Github <b>na sua branch</b>   - Local</li>
+  <li>Criar, via github, um pull request da sua branch para a master - Pelo Github</li>
+  <li>Aprovar o seu pull request</li>
+  <li>Deletar a sua branch - Pelo Github (após aprovar o PR aparece a opção de deletar a branch)</li>
+</ol>
+
+<h4> Tarefa 2 - Editando arquivos </h4>
+Estamos editando um arquivo txt, mas o mesmo conceito se aplica à um progrmaa
+
+<ol>
+  <li>Criar uma branch (seu nome/apelido)        - Local</li>
+  <li>Atualize sua branch local com o repositório remoto: <b>git pull origin master</b> - Local </li>
+  <li>Edite o "Arquivo.txt" conforme indicado - Local</li>
+  <li>Push para o Github <b>na sua branch</b>   - Local</li>
+  <li>Criar, via github, um pull request da sua branch para a master - Pelo Github</li>
+  <li>Aprovar o seu pull request</li>
+  <li>Deletar a sua branch - Pelo Github (após aprovar o PR aparece a opção de deletar a branch)</li>
+</ol>
+ 
