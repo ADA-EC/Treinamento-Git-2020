@@ -1,7 +1,7 @@
 # Atividade
 
 <h4> Tarefa 1 - Adionando arquivos </h4>
-Estas atividades devem ser feitas dos seus respectivos computadores<br>
+Estas atividades devem ser feitas dos seus respectivos computadores<br><br>
 
 <ol>
   <li>Clonar o repositório - Local</li>
@@ -14,7 +14,7 @@ Estas atividades devem ser feitas dos seus respectivos computadores<br>
 </ol>
 
 <h4> Tarefa 2 - Editando arquivos </h4>
-Estamos editando um arquivo txt, mas o mesmo conceito se aplica à um progrmaa
+Estamos editando um arquivo txt, mas o mesmo conceito se aplica à um progrmaa<br><br>
 
 <ol>
   <li>Criar uma branch (seu nome/apelido)        - Local</li>
