@@ -19,7 +19,7 @@ Estamos editando um arquivo txt, mas o mesmo conceito se aplica à um progrmaa<b
 <ol>
   <li>Criar uma branch (seu nome/apelido)        - Local</li>
   <li>Atualize sua branch local com o repositório remoto: <b>git pull origin master</b> - Local </li>
-  <li>Edite o "Arquivo.txt" conforme indicado - Local</li>
+  <li>Edite o "Arquivo.txt" conforme indicado - Local <strike> PS: lembrem-se rodar um git pull antes de editarem arquivos para enviar </strike></li> 
   <li>Push para o Github <b>na sua branch</b>   - Local</li>
   <li>Criar, via github, um pull request da sua branch para a master - Pelo Github</li>
   <li>Aprovar o seu pull request</li>
