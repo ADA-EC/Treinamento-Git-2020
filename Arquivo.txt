@@ -1,3 +1,5 @@
 Editem aqui, cada um em uma linha. Podem escrever qualquer coisa (tenham educação):
 
 -engcomp>bcc
+
+SELECT * FROM Table WHERE id = 42;
